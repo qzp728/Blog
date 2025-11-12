@@ -229,5 +229,6 @@ Electron 应用内置了 Chromium 浏览器内核，具有浏览器的默认行�
 **离屏渲染你**：相当于取代了原本的浏览器，由开发者来决定什么时候消费、应该怎么消费，因为没有窗体，所以不会因为窗体可见性触发浏览器的性能优化策略。    
 
 **https://chatgpt.com/share/6911b2dc-191c-8001-97e1-5fa03b0db240**    
-**https://www.electronjs.org/docs/latest/tutorial/offscreen-rendering**    
+**https://www.electronjs.org/docs/latest/tutorial/offscreen-rendering**     
+**https://bitbucket.org/chromiumembedded/cef/wiki/GeneralUsage#markdown-header-off-screen-rendering**
 
